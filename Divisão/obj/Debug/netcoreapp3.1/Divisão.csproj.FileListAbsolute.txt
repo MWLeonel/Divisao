@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\Divisão\Divisão\bin\Debug\netcoreapp3.1\Divisão.exe
+C:\Users\Max\Desktop\Divisão\Divisão\bin\Debug\netcoreapp3.1\Divisão.deps.json
+C:\Users\Max\Desktop\Divisão\Divisão\bin\Debug\netcoreapp3.1\Divisão.runtimeconfig.json
+C:\Users\Max\Desktop\Divisão\Divisão\bin\Debug\netcoreapp3.1\Divisão.runtimeconfig.dev.json
+C:\Users\Max\Desktop\Divisão\Divisão\bin\Debug\netcoreapp3.1\Divisão.dll
+C:\Users\Max\Desktop\Divisão\Divisão\bin\Debug\netcoreapp3.1\Divisão.pdb
+C:\Users\Max\Desktop\Divisão\Divisão\obj\Debug\netcoreapp3.1\Divisão.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\Divisão\Divisão\obj\Debug\netcoreapp3.1\Divisão.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Divisão\Divisão\obj\Debug\netcoreapp3.1\Divisão.AssemblyInfo.cs
+C:\Users\Max\Desktop\Divisão\Divisão\obj\Debug\netcoreapp3.1\Divisão.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Divisão\Divisão\obj\Debug\netcoreapp3.1\Divisão.dll
+C:\Users\Max\Desktop\Divisão\Divisão\obj\Debug\netcoreapp3.1\Divisão.pdb
+C:\Users\Max\Desktop\Divisão\Divisão\obj\Debug\netcoreapp3.1\Divisão.genruntimeconfig.cache
